@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="SeguridadUsuarios.PaginasBrl" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Brl\PaginasBrl.vb</FileName>
+      <HashCode>UIAAAAACAAQIgQgAAAAIMIChgCAAAJYGTEAAFBAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeguridadUsuarios.PerfilesBrl" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Brl\PerfilesBrl.vb</FileName>
+      <HashCode>EIAAAAACAARIgQgAAAAIMICDgCAAAIYERAAAFAAEAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeguridadUsuarios.Permisos_PerfilBrl" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Brl\Permisos_PerfilBrl.vb</FileName>
+      <HashCode>IgAoAAAWGCTokIiwklAIcAKBgClAQIaAThJEXUBuIEE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeguridadUsuarios.Permisos_UsuarioBrl" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Brl\Permisos_UsuarioBrl.vb</FileName>
+      <HashCode>IgAoAAUWGATokIiwkkCIcAKBkChAQIaARlJEVEBuIgE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeguridadUsuarios.SucursalesBrl" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Brl\SucursalesBrl.vb</FileName>
+      <HashCode>AAAAAAACAAQIkQgAAAAIMJCDwCAAAIYERAAAFAIEQwA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeguridadUsuarios.UsuariosBrl" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Brl\UsuariosBrl.vb</FileName>
+      <HashCode>AAAAABgCAKVMgAoAAAAIeAChkK2AwIYhTBgQHQAMASA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeguridadUsuarios.PaginasDAL" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Dal\PaginasDAL.vb</FileName>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAgIAAAAAIBAAAABAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeguridadUsuarios.PerfilesDAL" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Dal\PerfilesDAL.vb</FileName>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAgIAAAAAIBAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeguridadUsuarios.Permisos_PerfilDAL" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Dal\Permisos_PerfilDAL.vb</FileName>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAgIAAAAAIBAAAAUAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeguridadUsuarios.Permisos_UsuarioDAL" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Dal\Permisos_UsuarioDAL.vb</FileName>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAgIAAAAAIBAAAAEBAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeguridadUsuarios.SucursalesDAL" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Dal\SucursalesDAL.vb</FileName>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAgIAAAAAIBAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeguridadUsuarios.UsuariosDAL" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Dal\UsuariosDAL.vb</FileName>
+      <HashCode>AAAAAAAAAAQAAAABAAAAAAAAgIAAAAAIBAAAAQAIAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeguridadUsuarios.Usuarios" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Usuarios.vb</FileName>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeguridadUsuarios.My.MySettings" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Settings.vb</FileName>
+      <HashCode>AAAAABAAAAAAAAAAAAAAIAAIAAABQgAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="SeguridadUsuarios.Conexiones" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Dal\Conexion.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="SeguridadUsuarios.My.Resources.Resources" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="SeguridadUsuarios.My.MySettingsProperty" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+</ClassDiagram>
